@@ -1,1 +1,1 @@
-# Front-End-Development-Responsive-Web-Page
+Responsive Web Page Activity
